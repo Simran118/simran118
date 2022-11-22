@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Data Exploration](https://github.com/Simran118/Data-exploration)
 
-- 🌱 I’m currently learning **R and Python**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Simran118/Data-exploration](https://github.com/Simran118/Data-exploration)
 
